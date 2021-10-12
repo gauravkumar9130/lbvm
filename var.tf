@@ -1,3 +1,3 @@
 variable "rgname" {
-  default = "myrg"
+  default = "datarg2"
 }
