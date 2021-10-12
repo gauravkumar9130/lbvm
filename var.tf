@@ -1,0 +1,3 @@
+variable "rgname" {
+  default = "myrg"
+}
